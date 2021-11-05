@@ -1,0 +1,8 @@
+footer.main{
+  color: #fff;
+}
+body footer.main a{
+  color: #beb;
+  text-shadow: 1px 2px 7px #000; 
+}
+

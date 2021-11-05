@@ -1,0 +1,13 @@
+body{
+  color:#656565;
+  font-size: 16px;
+}
+.page-container.horizontal-menu{
+  padding-top: 61px;
+}
+body footer.main{
+  font-size: 12px;
+}
+body footer.main a{
+  color: #00a651;
+}
